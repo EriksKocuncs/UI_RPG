@@ -40,6 +40,9 @@ Ir 4 ieroči starp ko spēlētājs var pārslēgties ar pogu:
 ### Healing
 Spēlētājam ir heal poga kas atjauno 10 HP (vai atjauno līdz max ja trūkst mazāk par 10).
 
+### Weapon switching
+Spēles laikā var pamainīt izmantojamo ieroci. Ieroča tips atjaunojas UI.
+
 ---
 
 ## Bonuss
